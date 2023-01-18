@@ -1,0 +1,43 @@
+.top-heading {
+    margin: auto;
+    width: 75%;
+    color: black;
+    background-color: gray;
+    border: solid white;
+    padding: 10px 20px
+}
+
+body {
+    color: white;
+    background-color: black
+}
+
+.intro-container {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 75%;
+    border: solid white;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+p {
+    margin: auto;
+    width: 75%
+}
+
+h1 {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 75%;
+    text-align: center
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: solid white
+}
