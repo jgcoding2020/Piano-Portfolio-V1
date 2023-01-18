@@ -1,6 +1,5 @@
+/*h1 at top of page/ body*/
 .top-heading {
-    margin: auto;
-    width: 75%;
     color: black;
     background-color: gray;
     border: solid white;
@@ -12,6 +11,7 @@ body {
     background-color: black
 }
 
+/*div container for p tag element with bio*/
 .intro-container {
     margin: auto;
     margin-top: 20px;
@@ -22,11 +22,13 @@ body {
     padding-bottom: 20px
 }
 
+/*p tag element with bio*/
 p {
     margin: auto;
     width: 75%
 }
 
+/*all h1 elements */
 h1 {
     margin: auto;
     margin-top: 40px;
@@ -35,6 +37,7 @@ h1 {
     text-align: center
 }
 
+/*all iframes*/
 iframe {
     display: block;
     margin: auto;
